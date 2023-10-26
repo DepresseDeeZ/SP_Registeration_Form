@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>All Users</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      font-weight: bold;
+      font-size: 36px;
+      margin: 20px 0;
+    }
+
+    table {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    th, td {
+      padding: 10px;
+      border: 1px solid #fff;
+    }
+
+    th {
+      font-weight: bold;
+      background-color: #000;
+      color: #fff;
+    }
+
+    tr:nth-child(even) {
+      background-color: #333;
+    }
+
+    tr:nth-child(odd) {
+      background-color: #222;
+    }
+  </style>
+</head>
+<body>
+  <h1>All Users</h1>
+  <table>
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Email</th>
+      <th>Birthdate</th>
+      <th>Gender</th>
+      <th>Enrollment</th>
+    </tr>
+    <% users.forEach(function(user) { %>
+    <tr>
+      <td><%= user.first_name %></td>
+      <td><%= user.last_name %></td>
+      <td><%= user.email %></td>
+      <td><%= user.birthdate %></td>
+      <td><%= user.gender %></td>
+      <td><%= user.enrollment %></td>
+    </tr>
+    <% }); %>
+  </table>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Updated Student Information</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            font-weight: bold;
+            font-size: 36px;
+            margin: 20px 0;
+        }
+
+        table {
+            border: 1px solid #fff;
+            margin: 0 auto;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Updated Student Information</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Birthdate</th>
+                <th>Gender</th>
+                <th>Enrollment</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% students.forEach(function(student) { %>
+                <tr>
+                    <td><%= student.first_name %></td>
+                    <td><%= student.last_name %></td>
+                    <td><%= student.email %></td>
+                    <td><%= student.birthdate %></td>
+                    <td><%= student.gender %></td>
+                    <td><%= student.enrollment %></td>
+                </tr>
+            <% }); %>
+        </tbody>
+    </table>
+</body>
+</html>

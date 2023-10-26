@@ -1,9 +1,5 @@
 # SP Assignment: Registration Form with Express and MySQL
 ## Screenshots
-![Search](https://github.com/DepresseDeeZ/SP_Registeration_Form/assets/132985504/76eb3481-1aa6-4457-ae50-dc40263c86f8)
-![Update](https://github.com/DepresseDeeZ/SP_Registeration_Form/assets/132985504/d851a65d-f0b6-4d13-8135-bb0cecc88fec)
-![Delete](https://github.com/DepresseDeeZ/SP_Registeration_Form/assets/132985504/6219173c-0bd8-4645-9a06-0bbb17f07416)
-![Insert](https://github.com/DepresseDeeZ/SP_Registeration_Form/assets/132985504/b4abecae-6697-42ad-a8fe-3233b4acb3fe)
 
 <img src="https://github.com/DepresseDeeZ/SP_Registeration_Form/assets/132985504/76eb3481-1aa6-4457-ae50-dc40263c86f8" width="200" height="400" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

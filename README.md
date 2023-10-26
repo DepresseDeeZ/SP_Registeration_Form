@@ -5,13 +5,16 @@
 ![Delete](https://github.com/DepresseDeeZ/SP_Registeration_Form/assets/132985504/6219173c-0bd8-4645-9a06-0bbb17f07416)
 ![Insert](https://github.com/DepresseDeeZ/SP_Registeration_Form/assets/132985504/b4abecae-6697-42ad-a8fe-3233b4acb3fe)
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
 *Caption for Screenshot 2*
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-![Screenshot 2](screenshots/screenshot2.png)
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
+*Caption for Screenshot 2*
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
+*Caption for Screenshot 2*
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
 *Caption for Screenshot 2*
 
 Welcome to the SP Assignment GitHub repository! This repository contains a Registration Form web application created using Express, MySQL, HTML, CSS, and JavaScript. This README file provides an overview of the project, installation instructions, features, challenges faced, and licensing information.

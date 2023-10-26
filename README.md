@@ -1,5 +1,11 @@
 # SP Assignment: Registration Form with Express and MySQL
-##ScreenShot
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Caption for Screenshot 2*
 
 Welcome to the SP Assignment GitHub repository! This repository contains a Registration Form web application created using Express, MySQL, HTML, CSS, and JavaScript. This README file provides an overview of the project, installation instructions, features, challenges faced, and licensing information.
 
